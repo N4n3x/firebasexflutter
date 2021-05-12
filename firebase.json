@@ -5,6 +5,7 @@
   },
   "hosting": {
     "public": "public",
+    "site": "flutterxfirebase-web",
     "ignore": [
       "firebase.json",
       "**/.*",
